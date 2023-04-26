@@ -1,0 +1,23 @@
+[
+  {
+    "Id": "01",
+    "Tên": "Chó Con",
+    "Thông tin": "Một con chó con hay còn gọi là cún con là một con chó vị thành niên",
+    "Mô tả": "Sinh ra sau trung bình 63 ngày mang thai, những chú chó con xuất hiện trong một loài ối bị chó mẹ cắn và ăn",
+    "Hoạt động": "Trông coi nhà, chăn cừu, dẫn đường, kéo xe, cũng là thực phẩm giàu đạm, săn bắt, và được xem như là loài vật trung thành, tình nghĩa nhất với con người"
+  },
+  {
+    "Id": "02",
+    "Tên": "Con Mèo",
+    "Thông tin": "Mèo là động vật có vú, nhỏ nhắn và chuyên ăn thịt, sống chung với loài người, được nuôi để săn vật gây hại hoặc làm thú nuôi cùng với chó nhà.",
+    "Mô tả": "Mèo thường sống đơn độc.",
+    "Hoạt động": "Mèo được nuôi để bắt chuột, xua đuổi những con côn trùng,.. làm vật nuôi cho con người."
+  },
+  {
+    "Id": "03",
+    "Tên": "Con Bò",
+    "Thông tin": "Bò là tên gọi chung để chỉ các loài động vật trong chi động vật có vú với danh pháp khoa học Bos",
+    "Mô tả": "Có tuổi thọ khoảng 18-25 năm trong tự nhiên, còn trong tình trạng nuôi nhốt đã ghi nhận có thể sống tới 36 năm.",
+    "Hoạt động": "Bò được nuôi để làm thức ăn cho con người"
+  }
+]
